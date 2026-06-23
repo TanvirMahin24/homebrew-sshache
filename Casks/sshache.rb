@@ -1,8 +1,8 @@
 cask "sshache" do
-  version "0.1.3"
-  sha256 "7a802d0de34362e6100f6345daa6a391c8b0f76d8d31927a4cd5576a15c68c9d"
+  version "0.1.4"
+  sha256 "ae7ab5a18444e0824ec74cd316edd04ecf5061eab74c3eeeb6cdfdf83754ae0b"
 
-  url "https://github.com/TanvirMahin24/sshache/releases/download/v0.1.3/SSH.Ache_0.1.3_universal.dmg"
+  url "https://github.com/TanvirMahin24/sshache/releases/download/v0.1.4/SSH.Ache_0.1.4_universal.dmg"
   name "SSH Ache"
   desc "Desktop SSH client with terminal, SFTP, and port forwarding"
   homepage "https://sshache.com"
